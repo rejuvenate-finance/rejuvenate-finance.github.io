@@ -74444,14 +74444,14 @@ s=A.h2("During the presale $RJV tokens can be bought for 0.8 $BUSD per Token. Th
 r=A.avJ(B.nM,B.lD,new A.a7f())
 q=A.a2(b).R8.e
 q=A.h2("Remaining Tokens",1/0,1,q==null?l:q.lP(B.x,B.am),!1)
-p=B.e.V(A.a(c.Q,"_presaleContractService").e.a.aiv(0)/Math.pow(10,18),0)
+p=B.e.V(A.a(c.Q,"_presaleContractService").e.a.aiv(0)/Math.pow(10,18)-300,0)
 o=A.a2(b).R8.y
 p=A.h2(p,1/0,l,o==null?l:o.c7(A.a2(b).at),!1)
 o=A.a2(b).R8.y
 o=A.h2(" / ",1/0,l,o==null?l:o.c7(B.n),!1)
 n=A.a2(b).R8.y
 m=t.p
-return new A.dK(new A.ax(0,500,k.a.b/4,1/0),new A.bG(B.c0,A.e0(A.b([j,s,B.lm,r,B.cf,q,A.hW(A.b([new A.hF(1,B.bG,p,l),new A.hF(1,B.bG,o,l),A.mk(A.h2("500000",1/0,l,n==null?l:n.c7(B.n),!1),1)],m),B.G,B.ar,B.F)],m),B.cx,B.aM,B.F),l),l)}}
+return new A.dK(new A.ax(0,500,k.a.b/4,1/0),new A.bG(B.c0,A.e0(A.b([j,s,B.lm,r,B.cf,q,A.hW(A.b([new A.hF(1,B.bG,p,l),new A.hF(1,B.bG,o,l),A.mk(A.h2("200000",1/0,l,n==null?l:n.c7(B.n),!1),1)],m),B.G,B.ar,B.F)],m),B.cx,B.aM,B.F),l),l)}}
 A.a7f.prototype={
 $0(){A.m_("https://docs.rejuvenate.finance/roadmap/overview/presale")},
 $S:0}
