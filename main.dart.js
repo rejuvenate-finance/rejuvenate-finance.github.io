@@ -74444,7 +74444,7 @@ s=A.h2("During the presale $RJV tokens can be bought for 0.8 $BUSD per Token. Th
 r=A.avJ(B.nM,B.lD,new A.a7f())
 q=A.a2(b).R8.e
 q=A.h2("Remaining Tokens",1/0,1,q==null?l:q.lP(B.x,B.am),!1)
-p=B.e.V(A.a(c.Q,"_presaleContractService").e.a.aiv(0)/Math.pow(10,18)-300,0)
+p=B.e.V(Math.max(A.a(c.Q,"_presaleContractService").e.a.aiv(0)/Math.pow(10,18)-3e5,0),0)
 o=A.a2(b).R8.y
 p=A.h2(p,1/0,l,o==null?l:o.c7(A.a2(b).at),!1)
 o=A.a2(b).R8.y
